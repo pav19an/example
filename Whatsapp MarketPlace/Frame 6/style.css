@@ -1,0 +1,15 @@
+
+.image {
+  border: 0px none;
+  height: 859px;
+  width: 412px;
+}
+
+.image .black-screen {
+  height: 852px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 393px;
+}

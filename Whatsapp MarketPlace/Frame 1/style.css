@@ -1,0 +1,132 @@
+.iphone-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 852px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+.iphone-pro .vector {
+  height: 12px;
+  left: 343px;
+  position: absolute;
+  top: 32px;
+  width: 25px;
+}
+
+.iphone-pro .img {
+  height: 20px;
+  left: 275px;
+  position: absolute;
+  top: 26px;
+  width: 23px;
+}
+
+.iphone-pro .vector-2 {
+  height: 18px;
+  left: 309px;
+  position: absolute;
+  top: 29px;
+  width: 25px;
+}
+
+.iphone-pro .overlap-group {
+  height: 259px;
+  left: -86px;
+  position: absolute;
+  top: -111px;
+  width: 279px;
+}
+
+.iphone-pro .text-wrapper {
+  color: #000000;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 122px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.iphone-pro .ellipse {
+  background-color: #00ecfb4a;
+  border-radius: 100px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 200px;
+}
+
+.iphone-pro .ellipse-2 {
+  background-color: #00ecfb4a;
+  border-radius: 100px;
+  height: 200px;
+  left: 79px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.iphone-pro .whatapp-icon {
+  height: 100px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 100px;
+}
+
+.iphone-pro .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 101px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 459px;
+}
+
+.iphone-pro .overlap {
+  height: 617px;
+  left: 58px;
+  position: absolute;
+  top: 685px;
+  width: 678px;
+}
+
+.iphone-pro .rectangle {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.iphone-pro .GET-STARTED {
+  color: transparent;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 78px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 600px;
+}
